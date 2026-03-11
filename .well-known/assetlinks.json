@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.kikim54.twa",
-    "sha256_cert_fingerprints": ["44:4B:95:AC:DA:69:89:FD:4C:29:FD:42:8F:69:9A:D1:55:58:C4:96:E6:13:20:B3:09:F8:29:4E:59:CE:B7:7E"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kikim54.twa",
+        "sha256_cert_fingerprints": ["3C:B1:56:94:57:9D:C0:54:BD:94:45:8C:33:8B:8E:14:7D:83:8D:E6:78:1E:28:05:18:2A:88:3C:20:40:8E:ED"]
+      }
+    }]
