@@ -1,13 +1,16 @@
 {
+  "id": "/coopclasse/",
   "name": "CoopClasse",
   "short_name": "CoopClasse",
-  "description": "Gestion de l'apprentissage cooperatif",
+  "description": "Gestion de l'apprentissage cooperatif - College Jean Lamour",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#eef2f9",
   "theme_color": "#0e2240",
+  "screenshots": [],
   "icons": [
-    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
   ]
 }
